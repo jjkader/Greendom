@@ -54,7 +54,7 @@ button:hover {
 
 	<h1 align= "center">Greendom</h1>
 	<form align= "center" action="search.php">
-	Search for an item to check its recyclability: <br>
+	Search for an item to check its sniccle: <br>
   <input type="text" name="keyword"><br>
   <input type="submit" value="Submit">
 </form> 
